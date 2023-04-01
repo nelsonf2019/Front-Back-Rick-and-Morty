@@ -1,0 +1,5 @@
+Los controladores manejan toda la logica
+en esta caso es getCharById el llamamos desde
+el servidor
+
+---RUTAS Y CONTROLADORES 

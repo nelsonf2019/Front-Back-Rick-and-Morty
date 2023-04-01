@@ -1,0 +1,23 @@
+.searchInput{
+    margin: auto;
+    border: 0px;
+    border-radius: 15px 0px 0px 15px;
+    background-color: #e0e0e0;
+    height: 3em; 
+     
+}
+
+.searchButton{
+    
+    border: 0px;
+    border-radius:0px 15px 15px 0px;
+    background-color: #e0e0e0;
+    height: 3em;
+    border-color:rgb(230, 201, 201);
+    
+}
+
+.bar{
+    margin-top: 5px;
+    width: 20%;   
+}

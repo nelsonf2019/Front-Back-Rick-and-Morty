@@ -1,0 +1,17 @@
+.container{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    height: 50px;
+    align-content: right;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 10);
+    border-radius:15px 15px 15px 15px;
+}
+.title{
+    color: rgb(127, 255, 157);  
+}
+.container:hover{
+   
+    color: rgb(129, 204, 108);
+}
